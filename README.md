@@ -1,6 +1,7 @@
 # Goggl - The Most Unique Search Engine in the World
 
-![Goggl](https://i.ibb.co/yQdYhtq/image.png)
+![Goggl](https://i.ibb.co/jJGBCYs/image.png)
+
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
